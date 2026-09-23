@@ -1,2 +1,2 @@
 # pruebaasix
-Esto es una prueba de creación de repositorio
+*Esto* es **una** ***prueba*** de creación de repositorio
